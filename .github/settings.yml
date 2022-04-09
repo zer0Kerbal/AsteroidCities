@@ -18,7 +18,7 @@ repository:
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*
   
   # A comma-separated list of topics to set on the repository
-  topics: kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods
+  topics: asteroid,cities,klockheed,martian,klockheedmartian,kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods,dtobi,zedk
   
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
@@ -257,78 +257,55 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 1.4.2.0-release
-    description: progress toward 1.4.2.0-release
+  - title: 2.2.0.0-adoption
+    description: progress toward 2.2.0.0-adoption
     state: open
 
   - title: Localization - Master
     description: progress toward total localization
     state: open
     
-  - title: Localization - Code
-    description: progress toward CODE localization (only for add-ons - plugins - etc)
-    state: open
-    
   - title: Localization - English (United States) <en-us.cfg>
-    description: progress toward English (United States) <en-us.cfg> localization
+    description: progress toward English (United States) <en-us.cfg> localization (Parts)
     state: open
-#    
-#  - title: Localization - German (Deutsch) <de.cfg>
-#    description: progress toward German (Deutsch) <de.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Spanish (Español) <es-es.cfg>
-#    description: progress toward Spanish (Español) <es-es.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Mexican Spanish  (Mexicano) <es-mx.cfg>
-#    description: progress toward Mexican Spanish (Mexicano) <es-mx.cfg> localization
-#    state: open
-#    
-#  - title: Localization - French (Français) <fr-fr.cfg>
-#    description: progress toward French (Français) <fr-fr.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Italian (Italiano) <it-it.cfg>
-#    description: progress toward Italian (Italiano) <it-it.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Japanese(日本語) <ja.cfg>
-#    description: progress toward Japanese(日本語) <ja.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Korean (한국어) <ko.cfg>
-#    description: progress toward Korean (한국어) <ko.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Dutch (Nederlands) <nl-nl.cfg>
-#    description: progress toward Dutch (Nederlands) <nl-nl.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Norwegian (Norsk) <no-no.cfg>
-#    description: progress toward Norwegian (Norsk) <no-no.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Polish (Polski) <pl.cfg>
-#    description: progress toward Polish (Polski) <pl.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Brazil Portuguese (Português Brasil) <pt-br.cfg>
-#    description: progress toward Brazil Portuguese (Português Brasil) <pt-br.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Russian (Русский) <ru.cfg>
-#    description: progress toward Russian (Русский) <ru.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Swedish (Svenska) <sw-sw.cfg>
-#    description: progress toward Swedish (Svenska) <sw-sw.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Taiwanese (国语) <zh-tw.cfg>
-#    description: progress toward Taiwanese (国语) <zh-tw.cfg> localization
-#    state: open
-#    
-#  - title: Localization - Simplified Chinese (简体中文) <zh-cn.cfg>
-#    description: progress toward Simplified Chinese (简体中文) <zh-cn.cfg> localization
-#    state: open
+
+  - title: 2.1.0.0-release
+    description: historic archival for 2.1.0.0-release
+    state: open
+
+  - title: 2.0.1.1-release
+    description: historic archival for 2.0.1.1-release
+    state: open
+
+  - title: 2.0.0.0-release
+    description: historic archival for 2.0.0.0-release
+    state: open
+
+  - title: 0.5.0.0-release
+    description: historic archival for 0.5.0.0-release
+    state: open
+
+  - title: 0.4.0.0-release
+    description: historic archival for 0.4.0.0-release
+    state: open
+
+  - title: 0.3.1.0.0-release
+    description: historic archival for 0.3.1.0.0-release
+    state: open
+
+  - title: 0.3.0.0-release
+    description: historic archival for 0.3.0.0-release
+    state: open
+
+  - title: 0.2.0.0-release
+    description: historic archival for 0.2.0.0-release
+    state: open
+
+  - title: 0.1.1.0-release
+    description: historic archival for 0.1.1.0-release
+    state: open
+
+  - title: 0.1.0.0-release
+    description: historic archival for 0.1.0.0-release
+    state: open
+
