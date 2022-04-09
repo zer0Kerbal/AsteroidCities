@@ -18,6 +18,10 @@ updated: 30 Mar 2022
 
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
+<div class="fa-3x">
+  <i class="fa-solid fa-file-certificate fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
+</div>
+
 # Asteroid Cities (KMAC)
 
 [Home](/index.md)
