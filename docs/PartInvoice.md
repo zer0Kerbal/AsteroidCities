@@ -11,6 +11,11 @@ Asteroid Cities (KMAC)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
+<script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
+<div class="fa-3x">
+    <i class="fa-solid fa-meteor fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
+</div>
+
 # Asteroid Cities (KMAC)
 
 [Home](/index.md)
