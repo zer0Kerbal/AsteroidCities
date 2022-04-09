@@ -13,7 +13,7 @@ updated: 08 Apr 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
-    <i class="fa-regular fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
+    <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
 # Asteroid Cities (KMAC)
