@@ -9,13 +9,13 @@ repository:
   # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
 
   # The name of the repository. Changing this will rename the repository
-  name: MODNAME
+  name: AsteroidCities
 
   # A short description of the repository that will show up on GitHub
-  description: Two size zero (0.625m) parts that make up an autonomous return capsule to stuff your experiments in for Kerbal Space Program.
+  description: Klockheed Martian Engine Manufacture - Asteroid Cities. Parts for working with asteroids and commts. This pack adds water to asteroids and provides parts to create fuel depots with refineries and greenhouses for cities. For Kerbal Space Program.
 
   # A URL with more information about the repository
-  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/204186-*
+  homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*
   
   # A comma-separated list of topics to set on the repository
   topics: kerbal,kerbalspaceprogram,ksp,ksp-mods,ksp-parts,kerbal-space,kerbal-space-program,kerbal-mods
