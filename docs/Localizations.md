@@ -6,26 +6,14 @@ description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
-<!-- Localizations.md v1.1.3.1
+<!-- Localizations.md v1.1.4.0
 Asteroid Cities (KMAC)
 created: 01 Feb 2022
-updated: 30 Mar 2022 -->
+updated: 08 Apr 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
-    <i class="fa-solid fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
-
-<div class="fa-3x">
     <i class="fa-regular fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
-
-<div class="fa-3x">
-    <i class="fa-thin fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
-
-<div class="fa-3x">
-    <i class="fa-solid fa-meteor fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
 # Asteroid Cities (KMAC)
