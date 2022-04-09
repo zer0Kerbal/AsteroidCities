@@ -13,12 +13,16 @@
 ## Version 2.1(.0.0)
 
 * update [asteroid.cfg] by agisis
+* closes #16 - Version 2.1.0.0
+* updates #6 - Releases to be archived
 
 ---
 
 ## Version 2.0.1(.1)
 
 * ? add [asteroid.cfg] by agisis
+* closes #15 - Version 2.0.1.1
+* updates #6 - Releases to be archived
 
 ---
 
@@ -26,6 +30,8 @@
 
 * New KM Folder structure
 * Compatibility for 0.24
+* closes #14 - Version 2.0.0.0
+* updates #6 - Releases to be archived
 
 ---
 
@@ -35,6 +41,8 @@
   * Grabbers should now be attachable multiple times
   * Improved grabber collision meshes for better grabbing
   * Turned Philly and large grabber around so that "control from here" works better
+* closes #13 - Version 0.5.0.0
+* updates #6 - Releases to be archived
 
 ---
 
@@ -42,12 +50,16 @@
 
 * Command bunker
 * performance fix
+* closes #12 - Version 0.4.0.0
+* updates #6 - Releases to be archived
 
 ---
 
-## Version 0.3.1(.0.0)
+## Version 0.3.1(.0)
 
 * Hotfix for missing km_lib.dll
+* closes #11 - Version 0.3.1.0
+* updates #6 - Releases to be archived
 
 ---
 
@@ -56,6 +68,8 @@
 * Resource Generator improvements
   * Resource generator stops when running out of one input resource
   * Resource converter stops when running out pf output resource space
+* closes #10 - Version 0.3.0.0
+* updates #6 - Releases to be archived
 
 ---
 
@@ -63,6 +77,8 @@
 
 * Updated conversion rates to avoid magic mass increase
 * increased electricity drain.
+* closes #9 - Version 0.2.0.0
+* updates #6 - Releases to be archived
 
 ---
 
@@ -73,10 +89,14 @@
   * Kethane
   * if the plugins are installed.
 * The Philly scanner scans for both, too.
+* closes #8 - Version 0.1.1.0
+* updates #6 - Releases to be archived
 
 ## Version 0.1(.0.0)
 
 * Initial release
 * dtobi
+* closes #7 - Version 0.1.0.0
+* updates #6 - Releases to be archived
 
 ---
