@@ -22,7 +22,7 @@
 
 * ? add [asteroid.cfg] by agisis
 * closes #15 - Version 2.0.1.1
-* updates #6 - Releases to be archived
+* closes #6 - Releases to be archived
 
 ---
 
