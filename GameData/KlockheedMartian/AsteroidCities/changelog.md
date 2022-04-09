@@ -1,9 +1,9 @@
 # Changelog  
   
-| modName    | Asteroid Cities (KMAC)                                          |
+| modName    | AsteroidCities (KMAC)                                           |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
-| author     | dtobi and zer0Kerbal                                            |
+| author     | dtobi zer0Kerbal                                                |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/72107-*) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/AsteroidCities)       |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)     |
