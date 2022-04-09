@@ -7,7 +7,9 @@ Klockheed Martian Engine Manufacture - Asteroid Cities. I was frustrated with ho
 ---
 
 Visit the official forum thread for more information:
-http://forum.kerbalspaceprogram.com/threads/79675
+
+new: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/
+source: https://forum.kerbalspaceprogram.com/index.php?/topic/72107-*
 
 Source: https://github.com/dtobi
 
@@ -59,7 +61,7 @@ V2.0: New KM Folder structure
 
 Installation:
 Important! Please follow the steps EVERY TIME you update a Klockheed Martian Mod! All public releases are located here:
-https://www.dropbox.com/sh/r93q90vpb...4h1_WtfFGa/KSP
+~~https://www.dropbox.com/sh/r93q90vpb...4h1_WtfFGa/KSP~~
 
 a) Download the latest version of the base Klockheed Martian Mod from here. It is just called "Klockheed_Martian".
 b) Download the desired Klockheed Martian mods (e.g., Klockheed_Martian_SSE for Space Shuttle Engines).
