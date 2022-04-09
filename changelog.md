@@ -10,6 +10,10 @@
 | spacedock  | (https://spacedock.info/mod/)                                   |
 | ckan       | AsteroidCities                                                  |
 
+## Version 2.2.0.0-adoption
+
+---
+
 ## Version 2.1(.0.0)
 
 * update [asteroid.cfg] by agisis
