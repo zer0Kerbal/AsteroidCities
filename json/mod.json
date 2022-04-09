@@ -1,8 +1,8 @@
 {
  "schemaVersion": 1,
- "label": "AsteroidCities",
+ "label": "Asteroid Cities",
  "labelColor": "BADA55",
- "message": "0.1.0.0",
+ "message": "0.1.1.0",
  "color": "darkgreen",
  "style": "plastic"
 }
