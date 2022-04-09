@@ -12,7 +12,7 @@ created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa-solid fa-meteor fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: firebrick"></i>
 
 # Asteroid Cities (KMAC)
 
