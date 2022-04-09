@@ -18,7 +18,7 @@
 
 ---
 
-## Version 2.0.1(.1)
+## Version 2.0.1(.0)
 
 * ? add [asteroid.cfg] by agisis
 * closes #15 - Version 2.0.1.1
