@@ -26,8 +26,7 @@ updated: 30 Mar 2022
 
 [Home](/index.md)
 
-* License
-  * ![License](./LegalMumboJumbo/License.md)
+* [License](./LegalMumboJumbo/License.md)
 * Forums
   * ![Forum](./LegalMumboJumbo/FORUM-01.png)
   * ![Forum](./LegalMumboJumbo/FORUM-02.png)
