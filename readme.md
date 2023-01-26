@@ -88,7 +88,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### See More
 
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
-* Changelog Summary for more details of changes : See [ChangeLog][MOD:chlog]
+* Changelog Summary for more details of changes: See [ChangeLog][MOD:chlog]
 * Known Issues for more details of feature requests and known issues : See [Known Issues][MOD:known]
 * GitHub Pages : See [Pages][MOD:pages]
 
@@ -215,7 +215,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^1]
 [fs]: https://github.com/snjo/Firespitter "Firespitter"
 [mm]: https://github.com/net-lisias-ksp/ModuleManager "Module Manager /L"
 [twk]: https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*/ "TweakScale"
-[ckan]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
+[ckan:url]: https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*/ "CKAN"
 [far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-*/ "FAR"
 [restock]: https://forum.kerbalspaceprogram.com/index.php?/topic/182679-*/ "Restock"
 
