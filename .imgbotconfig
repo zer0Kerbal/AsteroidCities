@@ -1,10 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/*",
-        "docs/LegalMumboJumbo/*",
         "GameData/KlockheedMartian/AsteroidCities/*",
-        "GameData/KlockheedMartian/AsteroidCities/Assets/*",
         "**/Assets/**",
         "**/Flags/**",
         "**/Agents/**",
