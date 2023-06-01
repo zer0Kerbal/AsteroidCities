@@ -139,7 +139,7 @@ parts, config
 
 #### Original (ROOT) (0) - Author: [`dtobi`][auth-link]
 
-> Forum: [Thread][0:thd] - Download: [CurseForge][0:dnl] - Source: [SpaceDock][0:src]  
+> Forum: [Thread][0:thd] - Download: [CurseForge][0:dnl] - Source: [GitHub][0:src]  
 > License: [![License][0:shd]][0:url] ![License][0:log]
 
 > CC BY-ND 4.0+zer0Kerbal
@@ -182,8 +182,8 @@ Comment, click, like, share, up-vote, subscribe
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[0:dnl]: https://github.com/dtobi "GitHub"
-[0:src]: http://spacedock.info/mod/3010 "SpaceDock"
+[0:dnl]: https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities
+[0:src]: https://github.com/dtobi "GitHub"
 [0:thd]: https://forum.kerbalspaceprogram.com/index.php?/topic/72107-*/ "KSP Forum"  
 
 <!--- license provenance-->
