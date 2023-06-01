@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Asteroid Cities (KMAC)                                          |
+| modName    | Asteroid Cities (AC)                                          |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
 | author     | dtobi and zer0Kerbal                                            |
