@@ -7,7 +7,7 @@ tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- PartInvoice.md v1.1.3.1
-Asteroid Cities (KMAC)
+Asteroid Cities (AC)
 created: 01 Feb 2022
 updated: 30 Mar 2022 -->
 
@@ -16,7 +16,7 @@ updated: 30 Mar 2022 -->
     <i class="fa-solid fa-meteor fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# Asteroid Cities (KMAC)
+# Asteroid Cities (AC)
 
 [Home](/index.md)
 
