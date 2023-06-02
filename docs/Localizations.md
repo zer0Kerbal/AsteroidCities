@@ -7,7 +7,7 @@ tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- Localizations.md v1.1.4.0
-Asteroid Cities (KMAC)
+Asteroid Cities (AC)
 created: 01 Feb 2022
 updated: 08 Apr 2022 -->
 
@@ -16,7 +16,7 @@ updated: 08 Apr 2022 -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# Asteroid Cities (KMAC)
+# Asteroid Cities (AC)
 
 [Home](./index.md)
 
@@ -37,7 +37,7 @@ __These localizations for KSP and its DLC's are available through Steam:__
 ## Included just in case
 
 * ![Español Mexicano][ME] Mexican Spanish (Español Mexicano) <es-mx.cfg>  
-* ![한국어][KO] [Korean (한국어) <ko.cfg>  
+* ![한국어][KO] Korean (한국어) <ko.cfg>  
 * ![Dutch][NL] Dutch (Nederlands) <nl-nl.cfg>  
 * ![Norsk][NO] Norwegian (Norsk) <no-no.cfg>  
 * ![Polski][PO] Polish (Polski) <pl.cfg>  
