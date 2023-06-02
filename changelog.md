@@ -10,6 +10,8 @@
 | spacedock  | (https://spacedock.info/mod/)                                   |
 | ckan       | AsteroidCities                                                  |
 
+tga 11.7m --> dds 6.11mb
+
 ## Version 2.1(.0.0)
 
 * update [asteroid.cfg] by agisis
