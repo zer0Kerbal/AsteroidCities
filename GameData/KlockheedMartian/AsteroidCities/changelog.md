@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | Asteroid Cities (AC)                                          |
+| modName    | Asteroid Cities (AC) by dtobi                                   |
 | ---------- | --------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                    |
 | author     | dtobi and zer0Kerbal                                            |
@@ -9,6 +9,9 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)     |
 | spacedock  | (https://spacedock.info/mod/)                                   |
 | ckan       | AsteroidCities                                                  |
+
+tga 11.7mb --> dds 6.11mb
+tga 5.11mb --> png 1.34mb --> dds 4.0mb
 
 ## Version 2.1(.0.0)
 
@@ -95,7 +98,8 @@
 ## Version 0.1(.0.0)
 
 * Initial release
-* dtobi
+* by dtobi
+* 01 May 2014
 * closes #7 - Version 0.1.0.0
 * updates #6 - Releases to be archived
 
