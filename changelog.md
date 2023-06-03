@@ -10,7 +10,8 @@
 | spacedock  | (https://spacedock.info/mod/)                                   |
 | ckan       | AsteroidCities                                                  |
 
-tga 11.7m --> dds 6.11mb
+tga 11.7mb --> dds 6.11mb
+tga 5.11mb --> png 1.34mb --> dds 4.0mb
 
 ## Version 2.1(.0.0)
 
