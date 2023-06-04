@@ -189,7 +189,7 @@ Comment, click, like, share, up-vote, subscribe
 <!--- license provenance-->
 [0:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-ND 3.0"
 [0:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 3.0"
-[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 3.0"
+[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 3.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0+ARR"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0+ARR"
