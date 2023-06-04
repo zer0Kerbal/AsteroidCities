@@ -1,5 +1,5 @@
 <!-- readme.md v2.2.0.0
-Asteroid Cities (AC)
+Asteroid Cities (KMAC)
 created: 01 May 2014
 updated: 01 Jun 2023
 
@@ -8,9 +8,9 @@ created: 17 Jul 2017
 updated: 29 May 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
-# [Asteroid Cities (AC)][CURSFG:url]
+# [Asteroid Cities (KMAC)][CURSFG:url]
 
-[![Asteroid Cities (AC)][SHD:mod]][CURSFG:url]  
+[![Asteroid Cities (KMAC)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
@@ -71,7 +71,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 ### Recommends
 
 * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
-  * [Asteroid Cities (AC)](https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)
+  * [Asteroid Cities (KMAC)](https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)
   * [Space Shuttle Engines (SSE)](https://www.curseforge.com/kerbal/ksp-mods/SpaceShuttleEngines)
   * [Special Parts Division (SPD)](https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities)
   * [Insight Lander (INSIGHT)](https://www.curseforge.com/kerbal/ksp-mods/Insight)
@@ -170,7 +170,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/Attribution.md "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/AsteroidCities/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Asteroid Cities (AC)"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207651-*/ "Asteroid Cities (KMAC)"
 [issue]: https://github.com/zer0Kerbal/AsteroidCities/issues "Issues"
 [markt]: https://zer0kerbal.github.io/AsteroidCities/Marketing "Marketing Slicks"
 [notic]: https://zer0kerbal.github.io/AsteroidCities/Notices "Notices"
