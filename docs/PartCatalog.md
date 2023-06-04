@@ -2,53 +2,67 @@
 permalink: /PartInvoice.html
 title: Parts Invoice
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
-# layout: bare
 tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- PartInvoice.md v1.1.3.1
+<!-- PartsCatalog.md v1.0.1.0
 Asteroid Cities (KMAC)
+created: 13 Apr 2022
+updated: 01 Jun 2023
+
+TEMPLATE: PartsCatalog.md v1.1.4.3
 created: 01 Feb 2022
-updated: 30 Mar 2022 -->
-
+updated: 01 May 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<div class="fa-3x">
-    <i class="fa-solid fa-meteor fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
-</div>
+<i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-# Asteroid Cities (KMAC)
+## [Asteroid Cities (KMAC)][mod]
 
 [Home](/index.md)
 
-## Parts Invoice
+## Parts Catalog
 
-This add-on adds nine (9) resource parts
-
----
-
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELMicroPad_icon.png" alt="MicroPad" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELOrbitalDock_icon.png" alt="OrbitalDock" width="25%" height="25%" />
-
-* RecycleBin, large
-* RecycleBin, small
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELRecycleBin.Large_icon.png" alt="RecycleBin Large" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELRecycleBin_icon.png" alt="RecycleBin" width="25%" height="25%" />
-
-* Auger SmallAuger TinyAuger
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELTinyAuger_icon.png" alt="TinyAuger" width="25%" height="25%" />   <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELSmallAuger_icon.png" alt="SmallAuger" width="25%" height="25%" />   <img src="https://raw.githubusercontent.com/zer0Kerbal/NotSoSimpleConstruction/master/GameData/NotSoSimpleConstruction/Parts/%40thumbs/ELAuger_icon.png" alt="Auger" width="25%" height="25%" />
+This add-on adds five (5) parts for colonizing asteroids
+<!-- no toc -->
+* [Bunker (with IVA)](#bunker)
+* [Grabbers](#grabbers)
+* [Greenhouse](#greenhouse)
+* [Refinery](#refinery)
 
 ---
 
-[top](#Parts-Invoice)
+### Bunker
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+* 3.75m
 
-<!-- ![Cargo Bay](/GameData/MiniSampleReturnCapsule/Parts/@thumbs/msrc-cargoBay_icon.png) -->
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-bunker-375_icon.png" alt="bunker-375_icon" width="25%" height="25%" />
+
+### Grabbers
+
+* pad, philly
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-grabber-pad-250_icon.png" alt="grabber-pad" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-grabber-philly-125_icon.png" alt="1.25m grabber-philly" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Greenhouse
+
+* 2.50m
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-greenhouse-250_icon.png" alt="2.5m Greenhouse" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Refinery
+
+* 2.5m
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-refinery-250_icon.png" alt="2.5m Refinery" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+---
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities "Asteroid Cities (KMAC)"
