@@ -4,7 +4,7 @@ title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,Catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- PartsCatalog.md v1.0.1.0
+<!-- PartsCatalog.md v1.0.2.0
 Asteroid Cities (KMAC)
 created: 13 Apr 2022
 updated: 01 Jun 2023
