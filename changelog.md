@@ -8,6 +8,58 @@
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities) |
 | ckan       | AsteroidCities                                              |
 
+## Version 2.1.99.1-prerelease - `<Spasibo evanisrael>` edition
+
+* Released
+  * 05 Jun 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+* THIS IS A PRERELEASE
+* functionality is limited
+  * Dependencies:
+    * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
+  * search for `kmac` in editors
+
+### Change Summary 2.1.99.1
+
+* Add Russian (Русский) localization
+  * [ru.cfg] - spasibo [evanisrael](https://github.com/evanisrael)
+  * [readme-ru.md] - spasibo [evanisrael](https://github.com/evanisrael)
+  * [quickstart-ru.md] - spasibo [evanisrael](https://github.com/evanisrael)
+* Update documentation
+
+### Changes 2.1.99.1
+
+#### Localization 2.1.99.1
+
+* Add localizations
+  * Russian (Русский)
+  * [ru.cfg] - spasibo [evanisrael](https://github.com/evanisrael)
+  * [readme-ru.md] - spasibo [evanisrael](https://github.com/evanisrael)
+  * [quickstart-ru.md] - spasibo [evanisrael](https://github.com/evanisrael)
+* closes #46 - Russian (Русский) <ru.cfg>
+* updates #38 - Localization - Master
+
+#### Docs 2.1.99.1
+
+* Update
+  * [Attribution.md] v1.0.2.0
+  * [404.md] v1.0.2.0
+  * [Localizations.md] v1.0.2.0
+  * [PartsCatalog.md] v1.0.2.0
+  * [readme.md] v2.1.99.1
+  * [releasenotes.md] v2.1.99.1
+
+#### Status 2.1.99.1
+
+* Issues
+  * closes #60 - Asteroid Cities (AC) 2.1.99.1-prerelease `<Spasibo evanisrael>` edition
+  * closes #61 - 2.1.99.1 Additional Tasks
+
+---
+
 ## Version 2.1.99.0-adoption - `<Thank you dtobi>` edition
 
 * Released
@@ -20,7 +72,7 @@
     * [Klockheed Martian Ltd (KML)](https://www.curseforge.com/kerbal/ksp-mods/KlockheedMartianLtd)
   * search for `kmac` in editors
 
-## Change Summary 2.1.99.0
+### Change Summary 2.1.99.0
 
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -59,6 +111,7 @@
   * Nodes
   * inventory
   * DRAG_CUBES
+* closes #56 - Part Localization
 
 #### Compatibility 2.1.99.0
 
@@ -111,21 +164,21 @@
 
 #### Localization 2.1.99.0
 
+* create Localization/
+  * create [en-us.cfg] v1.0.0.0
+  * create [readme.md] v2.1.1.0
+  * create [quickstart.md] v1.0.1.0
+* closes #35 - Create Localization directory and contents
+* closes #39 - English [en-us.cfg]
+* updates #38 - Localization - Master
+
 #### Tags 2.1.99.0
 
 * Add
   * [AsteroidCities.cfg] v1.0.0.0
     * adds localized tags to parts
-* create Localization/
-  * create <en-us.cfg> v1.0.0.0
-  * create [readme.md] v2.1.1.0
-  * create [quickstart.md] v1.0.1.0
-* closes #35 - Create Localization directory and contents
 * closes #37 - Create <AsteroidCities.cfg>
-* closes #39 - English <en-us.cfg>
-* closes #56 - Part Localization
 * closes #57 - Part Tags
-* updates #38 - Localization - Master
 
 #### Status 2.1.99.0
 
