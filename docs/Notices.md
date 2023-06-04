@@ -8,13 +8,13 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 
 <!--
 Notices.md v1.0.0.0
-Special Parts Division (KM/SPD)
+Asteroid Cities (KMAC)
 created: 13 Apr 2022
 updated: 
 
 based upon work by LisiasT -->
 
-# Special Parts Division (KM/SPD)
+# Asteroid Cities (KMAC)
 
 [Home](./index.md)
 
