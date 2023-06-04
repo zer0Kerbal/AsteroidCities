@@ -16,7 +16,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 Asteroid Cities is a parts addon for working with asteroids and comets. This pack adds water to asteroids and provides parts to create fuel depots with refineries and greenhouses for cities on those asteroids. For Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][dtobi]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][auth-link]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
@@ -189,11 +189,14 @@ Comment, click, like, share, up-vote, subscribe
 <!--- license provenance-->
 [0:url]: https://creativecommons.org/licenses/by-nc-nd/3.0/ "CC BY-NC-ND 3.0"
 [0:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 3.0"
-[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 3.0"
+[0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%203.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 3.0"
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0+ARR"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0+ARR"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/json/license.json "CC BY-ND 4.0+ARR"
+
+[LIC:sp:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
+[LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities "Curseforge"
