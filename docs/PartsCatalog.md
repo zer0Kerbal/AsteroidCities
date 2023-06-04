@@ -46,7 +46,7 @@ This add-on adds five (5) parts for colonizing asteroids
 
 ### Greenhouse
 
-* 2.50m
+* 2.5m
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-greenhouse-250_icon.png" alt="2.5m Greenhouse" width="25%" height="25%" />
 
