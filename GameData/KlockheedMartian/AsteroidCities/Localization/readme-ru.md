@@ -1,17 +1,17 @@
 ---
-permalink: /readme.html
+permalink: /readme-ru.html
 title: Иструкция по переводу и локализации
 ---
-
-<!--
-readme.md v2.1.2.0
+<!-- readme-ru.md v1.0.1.0
 Localization project
-created: 01 Jan 2018
-updated: 13 May 2022  -->
+created: 04 Jun 2023
+updated: 04 Jun 2023
 
-<!--from: @HebruSan (thank you) ![link](https://github.com/HebaruSan/Astrogator/tree/master/assets/lang)  -->
-
-<!-- Переведено/translated by [evanisrael](https://github.com/evanisrael) -->
+THIS FILE:
+    CC BY-ND-4.0
+    by [zer0Kerbal](https://gitbug.com/zer0Kerbal)
+    Переведено/translated by [evanisrael](https://github.com/evanisrael)
+-->
 
 # Перевод на ваш язык
 
@@ -30,19 +30,19 @@ updated: 13 May 2022  -->
   * ![Бразильский][BR] Бразильский <pt-br.cfg>
   * ![Китайский][CN] Упрощенный китайский (中文) <zh-cn.cfg>
   * ![Немецкий][DE] Немецкий (Deutsch) <de.cfg>
-  * ![Испанский][ES]] Испанский (Español) <es-es.cfg>
+  * ![Испанский][ES] Испанский (Español) <es-es.cfg>
   * ![Французский][FR] Французский (Français)<fr-fr.cfg>
   * ![Итальянский][IT] Итальянский (Italiano) <it-it.cfg>
   * ![Японский][JA] Японский (日本語) <ja.cfg>
 * Included as well
   * ![Корейский][KO] Корейский (한국어) <ko.cfg>
-  * ![Мексиканский испанский][ME] Мексиканский испанский (Español Mexicano) <es-mx.cfg>
+  * ![Мексиканский испанский][MX] Мексиканский испанский (Español Mexicano) <es-mx.cfg>
   * ![Голландский][NL] Голландский <nl-nl.cfg>
   * ![Норвежский][NO] Норвежский (Norsk) <no-no.cfg>
   * ![Польский][PO] Польский (Polski) <pl.cfg>
   * ![Русский][RU] Русский (Русский) <ru.cfg>
   * ![Шведский][SW] Шведский (Svenska) <sw-sw.cfg>
-  * ![Тайваньский][TW]] Тайваньский (国语) <zh-tw.cfg>
+  * ![Тайваньский][TW] Тайваньский (国语) <zh-tw.cfg>
 
 ## Создание или редактирование перевода
 
@@ -168,5 +168,3 @@ updated: 13 May 2022  -->
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/RU.png "Русский"  
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png "Svenska"  
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/TW.png "国语"
-
-<!-- CC BY-ND 4.0 by zer0Kerbal  -->
