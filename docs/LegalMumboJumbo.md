@@ -2,33 +2,62 @@
 permalink: /LegalMumboJumbo.html
 title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
-# layout: bare
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!--
-LegalMumboJumbo.md v1.0.4.1
+LegalMumboJumbo.md v1.0.1.0
 Asteroid Cities (KMAC)
+created: 01 May 2022
+updated: 01 Jun 2023
+
+TEMPLATE: LegalMumboJumbo.md v1.0.6.0
 created: 01 Feb 2022
-updated: 30 Mar 2022
--->
-
+updated: 14 Apr 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa-regular fa-file-certificate fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
-
-<div class="fa-3x">
-  <i class="fa-solid fa-file-certificate fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
-</div>
-
-# Asteroid Cities (KMAC)
+## [Asteroid Cities (KMAC)][mod]
 
 [Home](/index.md)
 
-* [License](./LegalMumboJumbo/License.md)
-* Forums
-  * ![Forum](./LegalMumboJumbo/FORUM-01.png)
-  * ![Forum](./LegalMumboJumbo/FORUM-02.png)
+## Legal Mumbo Jumbo
 
-<!-- this file CC BY-ND 3.0 Unported by zer0Kerbal -->
+* Table of Contents
+  * [License](#license)
+  * [Original License](#original-license)
+  * [Forum I](#forum-i)
+  * [Forum II](#forum-ii)
+  * [Forum III](#forum-iii)
+
+### License
+
+[License](./LegalMumboJumbo/License.md)
+[top](#legal-mumbo-jumbo)
+
+### Original License
+
+[License](./LegalMumboJumbo/OrigLicense.md)
+[top](#legal-mumbo-jumbo)
+
+### Forum I
+
+![License](./LegalMumboJumbo/FORUM-01.png)
+[top](#legal-mumbo-jumbo)
+
+### Forum II
+
+![License](./LegalMumboJumbo/FORUM-02.png)
+[top](#legal-mumbo-jumbo)
+
+### Forum III
+
+![License](./LegalMumboJumbo/FORUM-03.png)
+[top](#legal-mumbo-jumbo)
+
+---
+
+
+THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
+  used with express permission from zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/AsteroidCities "Asteroid Cities (KMAC)"
