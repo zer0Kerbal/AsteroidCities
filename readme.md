@@ -16,7 +16,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 Asteroid Cities is a parts addon for working with asteroids and comets. This pack adds water to asteroids and provides parts to create fuel depots with refineries and greenhouses for cities on those asteroids. For Kerbal Space Program.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][dtobi]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`dtobi`][auth-link]
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
