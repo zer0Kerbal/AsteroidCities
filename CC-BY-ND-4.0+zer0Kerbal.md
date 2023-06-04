@@ -1,16 +1,16 @@
 # Klockheed Martian
 
-## Special Parts Division (E- Special)
+## Asteroid Cities (KMAC)
 
-## [CC BY-ND 3.0](https://www.creativecommons.org/licenses/by-nd/4.0/)
+## [CC BY-ND 4.0+zer0Kerbal](https://www.creativecommons.org/licenses/by-nd/4.0/)
 
-## This work is shared under Creative Commons [CC BY-NC-ND 3.0](https://www.creativecommons.org/licenses/by-nc-nd/3.0/) license
+## This work is shared under Creative Commons [CC BY-ND 4.0+zer0Kerbal](https://www.creativecommons.org/licenses/by-nc-nd/3.0/) license
 
 You may non-commercially share it as-is with credit to the author in the download and on the download page.
 
 Please contact me if you want to modify or extend the code.
 
-Author: [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-dtobi/)
+Author: [dtobi](https://forum.kerbalspaceprogram.com/index.php?/profile/90882-*/)
 
 Permissions beyond the scope of this license are granted to zer0Kerbal, which are, but not limited to:
 
