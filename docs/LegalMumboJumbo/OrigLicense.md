@@ -2,6 +2,7 @@
 permalink: /License.html
 title: License: CC BY-NC-ND 3.0 Unported
 ---
+<!-- Asteroid Cities (KMAC) -->
 
 [Creative Commons](https://creativecommons.org/)
 
