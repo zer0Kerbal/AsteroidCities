@@ -1,7 +1,7 @@
-<!-- readme.md v2.2.0.0
+<!-- readme.md v2.1.99.1
 Asteroid Cities (KMAC)
 created: 01 May 2014
-updated: 01 Jun 2023
+updated: 05 Jun 2023
 
 TEMPLATE: readme.md v1.7.4.0
 created: 17 Jul 2017
@@ -28,8 +28,9 @@ Klockheed Martian Engine Manufacture - Asteroid Cities. I was frustrated with ho
 
 ### Parts
 
+* 3.75 Command bunker with all the modcons, custom IVA and seats four.
 * 2.5m Klaw
-* 0.62m Klaw with water detector
+* 0.625m Klaw with water detector
 * Refinery
 * Greenhouse
 
@@ -45,6 +46,7 @@ Klockheed Martian Engine Manufacture - Asteroid Cities. I was frustrated with ho
 ### Localization
 
 >* ![English][EN] English
+>* ![Russian (Русский)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/RU.png) Russian (Русский) - spasibo [evanisrael](https://github.com/evanisrael)
 >* ***your translation here***
 
 ### Help Wanted
