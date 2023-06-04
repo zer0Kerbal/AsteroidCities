@@ -1,8 +1,8 @@
 ---
-permalink: /PartInvoice.html
-title: Parts Invoice
+permalink: /PartsCatalog.html
+title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
-tags: parts,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
+tags: parts,Catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- PartsCatalog.md v1.0.1.0
 Asteroid Cities (KMAC)
@@ -46,7 +46,7 @@ This add-on adds five (5) parts for colonizing asteroids
 
 ### Greenhouse
 
-* 2.50m
+* 2.5m
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/AsteroidCities/master/docs/thumbs/kmac-greenhouse-250_icon.png" alt="2.5m Greenhouse" width="25%" height="25%" />
 
