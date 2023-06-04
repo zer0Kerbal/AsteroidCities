@@ -12,6 +12,6 @@
 - [ManualInstallation](ManualInstallation.md)
 - [Marketing](Marketing.md)
 - [Notices](Notices.md)
-- [PartCatalog](PartCatalog.md)
+- [PartsCatalog](PartsCatalog.md)
 - [Why](Why.md)
 - [changelog](changelog.md)
