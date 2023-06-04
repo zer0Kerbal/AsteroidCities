@@ -36,6 +36,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
 ### Adoption by [zer0Kerbal](https://github.com/zer0Kerbal)
 
 * THIS IS A PRERELEASE
+  * Do not use on saves you care about
   * all parts are showing in editor and flight
   * functionality is limited
 * Modernized, and localized all five specialized parts
