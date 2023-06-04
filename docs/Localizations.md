@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.1.0
+<!-- Localizations.md v1.0.2.0
 Asteroid Cities (KMAC)
 created: 01 May 2022
-updated: 03 Jun 2022
+updated: 04 Jun 2022
 
 TEMPLATE: Localizations.md v1.1.9.0
 created: 01 Feb 2022
@@ -27,6 +27,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 has been translated into the following languages:
 
 * ![English][EN] English <us-en.cfg>
+* ![Русский][RU] Russian (Русский) <ru.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -36,7 +37,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 * ![Italiano][IT] Italian (Italiano) <it-it.cfg>  
 * ![日本語][JA] Japanese(日本語) <ja.cfg>  
 * ![Português Brasil][BR] Brazilian Portuguese (Português Brasil) <pt-br.cfg>  
-* ![Русский][RU] Russian (Русский) <ru.cfg>  
 * ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
 ## Additionally Included
